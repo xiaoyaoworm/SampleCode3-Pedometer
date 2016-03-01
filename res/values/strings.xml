@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">ASU BDI TEEDATA</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">DataMonitor</string>
+    <string name="choose">Please press the button.....</string>
+    <string name="disAllDev">Display all the sensors</string>
+    <string name="title_activity_disall">All the sensors</string>
+    <string name="all">Acce+Pre+Gyr</string>
+    <string name="accBut1">start</string>
+    <string name="accBut2">stop</string>
+    <string name="title_activity_acc_pre_gyr">Pre_Acce_Gyro data</string>
+    <string name="suggestion"></string>
+
+</resources>
